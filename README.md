@@ -5,7 +5,7 @@
 
 ```console
 git clone https://github.com/sarsilmazhackteam/root-smsbomb.git
-cd sms-bomb
+cd root-sms
 pip3 install -r requirements.txt
 python3 root-smsbomb.py
 ```
