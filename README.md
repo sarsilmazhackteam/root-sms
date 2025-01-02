@@ -10,5 +10,5 @@ pip3 install -r requirements.txt
 python3 root-smsbomb.py
 ```
 
-#Emin Sarsılmaz
+# Emin Sarsılmaz
 
