@@ -10,5 +10,5 @@ pip3 install -r requirements.txt
 python3 root-smsbomb.py
 ```
 
-# Emin Sarsılmaz
+# 1337 X SARSILMAZ HACK TEAM
 
