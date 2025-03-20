@@ -1,4 +1,4 @@
-# 1337  && Sarsilmaz Hack Team
+# Sarsilmaz Hack Team
 
 
 <h2>Kurulum</h2>
@@ -10,5 +10,5 @@ pip3 install -r requirements.txt
 python3 root-smsbomb.py
 ```
 
-# 1337 X SARSILMAZ HACK TEAM
+# SARSILMAZ HACK TEAM
 
